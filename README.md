@@ -1,7 +1,5 @@
 # INTRODUCTION ON FLOW
 
-I recommended that you go to [the flow website](https://flow.org/en/docs/install/) to get started
-
 ## INSTALLATION
 
 There's 4 way to choose, but I pick `Yarn` and `Babel`
