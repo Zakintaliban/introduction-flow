@@ -1,4 +1,4 @@
-# GET STARTED WITH FLOW
+# INTRODUCTION ON FLOW
 
 I recommended that you go to [the flow website](https://flow.org/en/docs/install/) to get started
 
